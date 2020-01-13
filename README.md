@@ -1,5 +1,6 @@
 # BloomFilter
-A C# implementation of BloomFilter
+A C# implementation of BloomFilter.
+
 To know more about BloomFilters read the Wikipedia article: https://en.wikipedia.org/wiki/Bloom_filter
 
 # About this implementation
