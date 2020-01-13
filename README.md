@@ -2,7 +2,7 @@
 A C# implementation of BloomFilter
 To know more about BloomFilters read the Wikipedia article: https://en.wikipedia.org/wiki/Bloom_filter
 
-About this implementation.
+# About this implementation
 
 This is a proof of concept implementation of a BloomFilter in C#.
 MumurHash is the primary hashing algorithm used in this project.
